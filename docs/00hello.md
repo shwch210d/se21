@@ -15,10 +15,29 @@
 
 # History
 
-Warning the following timeline might be wrong 
+
+Once upon a time:
+
+-  "users" were considered to be outside of the scope of SE. 
+     - “The notion of user cannot be precisely defined  and therefore has no place in CS or SE” -- Dijkstra, ICSE4, 79
+     - And then ...
+- "compiling" was considered not safe practice for programmers 
+     - See "cleanrooms" and Harlan Mills, 1985. 
+     - And then ...
+- "requirements" was not an SE prolem.
+     - "Analysis and allocation of the system requirements is NOT the responsibility of the SE group but is a prerequisite for their work”. -- Paulk, 1993
+     - And then ...
+-  "testing" was seen as "someone else's problem" (the test team). And then ...
+-  "operations" was seen as "someone else's problem" (the field engineers and the maintaince team). And then ...
+-  "AI" was seen as separate to SE. And then ...
+
+
+See other trends, below:
+
+- Warning the following timeline might be wrong 
 &plusmn; 5 years.
-And if some trend is  big  in one decade,
-then you know that was the result
+- Also if some trend is  big  in one decade,
+  - then you know that was the result
 of years of prior engineering.
 
 
@@ -26,13 +45,28 @@ of years of prior engineering.
 
  <a href="https://www.amazon.com/dp/B005IEGK5C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">Turing's Cathederal</a>
 
+- Computers and atomic bombs were invented at the same time, by the same people, for the same reasons.
+- We live today inside their hastily (but brilliantly) conceived design assumptions.
+
 <img width=500 src="https://cdn.thenewstack.io/media/2020/10/8e6dde0b-maniac_memorytubes.jpg">
 
 <br clear=all>
 
 ## 1960s: Scaling Up Process
 
-<a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">Mythical Man (sic) Month</a>
+
+1960: The mother of all abstractions (warning: amazing): [about](http://www.paulgraham.com/rootsoflisp.html) :: [in python](https://norvig.com/lispy.html)
+
+-  "As computers have grown more powerful, 
+   the new languages being developed have been moving steadily toward the 'Lisp' model. 
+   A popular recipe for new programming languages in the past 20 years has been to take the 'C'; model of computing and add to it, piecemeal, 
+   parts taken from the 'Lisp' model, like runtime typing and garbage collection."   
+   -- Paul Graham
+
+1968: The Mother of All Demos (warning: long) [about](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos) :: [video](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+
+See also: <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">Mythical Man (sic) Month</a>
 
 
 <img align=left width=500
@@ -53,17 +87,19 @@ Pay attention: half of development is testing.
 
 ## 1970s: Personnel
 
-Microelectronics and the Personal Computer Alan C. Kay Scientific
+Alan Kay: the best way to predict the future is to invent it.
+
+- If you want to see what he meant: [Microelectronics and the Personal Computer](http://mnielsen.github.io/notes/kay/micro.pdf) Alan C. Kay Scientific
 American Vol. 237, No. 3 (September 1977), pp. 230-245
 
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/29195/129641843-1cb3cead-6aa8-4b4f-9bd1-69d8fa617a8d.png">
 
-"The user makes his primary input through a typewriterlike keyboard
-and a pointing device called a moise which controls the position
+"The user makes his primary input through a typewriter like keyboard
+and a pointing device called a mouse which controls the position
 of an arrow on the screen."
 
-"WINDOWS" dislay frames within the  larger display screen, emable
-the user or organie  and  edit information at several levesl  of
+"WINDOWS" display frames within the  larger display screen, enabling
+the user to organize  and  edit information at several levels  of
 refinement.
 
 <br clear=all>
@@ -101,7 +137,9 @@ The age is (myth)misinformation. Information, weaponized.
 
 ## 2020: AI
 
-AI, autonomous vechicles.
+AI 
+
+Autonomous vehicles.
 
 ?? Blockchain
 
