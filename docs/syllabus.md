@@ -183,8 +183,8 @@ Xiao Ling
 <img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
 Weichen Shi
 
-+ Github id:  XXX
-+ Discord  name: YYY
++ Github id:  shwch210d
++ Discord  name: Weichen#8407
 + E-mail: wshi6@ncsu.edu
 
 <br clear=all>
